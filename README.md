@@ -29,8 +29,6 @@ with Zabbix and Prometheus for observability.
 
 - [curingChamber](https://github.com/ttiot/curingChamber) — Home Assistant integration for charcuterie curing chambers: T°/RH regulation, multi-phase drying programs, batch weigh-ins and ETA.
 - [freeShokz](https://github.com/ttiot/freeShokz) — Linux control for Shokz OpenComm2 headsets: tray icon, GTK4 panel and CLI (battery, EQ, paired devices).
-- [LiteLLM-budget](https://github.com/ttiot/LiteLLM-budget) — VS Code extension showing current spend vs. max budget of your LiteLLM API key in the status bar.
-- [KmlViewer](https://github.com/ttiot/KmlViewer) — Yet another KML viewer, in Python.
 
 ## Ask me about
 
